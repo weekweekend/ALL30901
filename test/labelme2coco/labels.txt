@@ -1,0 +1,8 @@
+__ignore__
+_background_
+out
+shell
+line
+pipe
+sensor
+disc

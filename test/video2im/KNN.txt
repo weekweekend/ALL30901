@@ -1,0 +1,212 @@
+字典截取自: ['10-14_out', '14-6-14_out'] 
+
+10-14_out 分类情况为: 
+normal: 
+13
+anomalous: 
+6
+
+
+14-0_sensor 分类情况为: 
+normal: 
+7
+anomalous: 
+4
+
+
+0-6_shell 分类情况为: 
+normal: 
+34
+anomalous: 
+6
+
+
+10-14_shell 分类情况为: 
+normal: 
+17
+anomalous: 
+2
+
+
+14-18_shell 分类情况为: 
+normal: 
+11
+anomalous: 
+1
+
+
+14-6-14_disc 分类情况为: 
+normal: 
+11
+anomalous: 
+12
+
+
+14-10_line 分类情况为: 
+normal: 
+6
+anomalous: 
+5
+
+
+18-14_shell 分类情况为: 
+normal: 
+4
+anomalous: 
+11
+
+
+14-0_pipe 分类情况为: 
+normal: 
+10
+anomalous: 
+1
+
+
+0-6_out 分类情况为: 
+normal: 
+36
+anomalous: 
+4
+
+
+14-18_line 分类情况为: 
+normal: 
+12
+anomalous: 
+0
+
+
+18-14_line 分类情况为: 
+normal: 
+4
+anomalous: 
+11
+
+
+18-14_out 分类情况为: 
+normal: 
+6
+anomalous: 
+9
+
+
+0-6_disc 分类情况为: 
+normal: 
+14
+anomalous: 
+26
+
+
+10-14_disc 分类情况为: 
+normal: 
+10
+anomalous: 
+9
+
+
+14-0_disc 分类情况为: 
+normal: 
+0
+anomalous: 
+11
+
+
+14-0_out 分类情况为: 
+normal: 
+0
+anomalous: 
+11
+
+
+14-18_out 分类情况为: 
+normal: 
+9
+anomalous: 
+3
+
+
+14-6-14_out 分类情况为: 
+normal: 
+14
+anomalous: 
+9
+
+
+14-6-14_shell 分类情况为: 
+normal: 
+13
+anomalous: 
+10
+
+
+0-6_line 分类情况为: 
+normal: 
+30
+anomalous: 
+10
+
+
+14-10_disc 分类情况为: 
+normal: 
+10
+anomalous: 
+1
+
+
+14-0_line 分类情况为: 
+normal: 
+5
+anomalous: 
+6
+
+
+14-18_disc 分类情况为: 
+normal: 
+6
+anomalous: 
+6
+
+
+14-10_out 分类情况为: 
+normal: 
+2
+anomalous: 
+9
+
+
+14-6-14_line 分类情况为: 
+normal: 
+10
+anomalous: 
+13
+
+
+18-14_disc 分类情况为: 
+normal: 
+8
+anomalous: 
+7
+
+
+14-10_shell 分类情况为: 
+normal: 
+0
+anomalous: 
+11
+
+
+14-0_shell 分类情况为: 
+normal: 
+7
+anomalous: 
+4
+
+
+10-14_line 分类情况为: 
+normal: 
+18
+anomalous: 
+1
+
+

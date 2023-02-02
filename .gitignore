@@ -1,0 +1,83 @@
+	
+*.zip
+*.tar
+*.tgz
+*.pth
+
+aaamine/
+Anomaly Detection/i12/
+Anomaly Detection/InterFusion/
+Anomaly Detection/MSCRED/
+Anomaly Detection/usad/
+Anomaly Detection/MPN-main/data/shanghai/
+Anomaly Detection/MPN-main/exp/
+Anomaly Detection/MPN-main/pret/
+Anomaly Detection/MPN-main/pths/
+Anomaly Detection/MPN-main/results/
+Classification/
+infrared/
+documents/111/
+documents/central_structure/
+documents/co-mod-gan-master/
+documents/edge-connect-master/
+documents/Image_Style_Transfer/
+documents/Image_Style_Transfer/
+documents/match_post/
+documents/py-IE-CGAN-master /
+documents/RFR/
+documents/siggraph2017_inpainting-master/
+documents/PRVS-Image-Inpainting-master/checkpoint/
+segmentation/detectron2/
+segmentation/improving_segmentation_with_selfsupervised_depth/
+segmentation/PFENet/
+segmentation/rest/
+segmentation/Unsupervised-Segmentation/
+segmentation/mask_rcnn/data/
+segmentation/mask_rcnn/pretrain/
+segmentation/mask_rcnn/rest718_6/111/
+segmentation/mask_rcnn/rest718_6/edge/
+segmentation/mask_rcnn/rest718_6/predict/
+segmentation/mask_rcnn/rest718_6block/111/
+segmentation/mask_rcnn/rest718_6block/block/
+segmentation/mask_rcnn/rest718_6block/predict/
+segmentation/mask_rcnn/results/
+segmentation/mask_rcnn/save_weights*/
+segmentation/mask_rcnn/testData/
+segmentation/PaddleSeg/data/cocostuff/
+segmentation/PaddleSeg/output*/
+test/AD-AL/all/
+test/AD-AL/data/
+test/AD-AL/mine/
+test/AD-AL/results/
+test/AD-AL/range/
+test/AD-AL/300res/
+test/labelme2coco/images_train/
+test/labelme2coco/images_test/
+test/labelme2coco/coco_train/
+test/labelme2coco/coco_test/
+test/tools/Attack/testbefore/
+test/tools/Attack/test/
+test/tools/Attack/data2/
+test/tools/DataAugForObjectSegmentation/data2/
+test/tools/DataAugForObjectSegmentation/images_test/
+test/tools/DataAugForObjectSegmentation/images_test-noise/
+test/tools/DataAugForObjectSegmentation/images_train/
+test/tools/DataAugForObjectSegmentation/testbefore/
+test/tools/DataAugForObjectSegmentation/trainbefore/
+test/video2im/csv*/
+test/video2im/video/
+Anomaly Detection/MPN-main/nohup-55.out
+Anomaly Detection/MPN-main/nohup-72.out
+Anomaly Detection/MPN-main/nohup-big.out
+Anomaly Detection/MPN-main/nohup.out
+Anomaly Detection/MPN-main/ziKCkZ5x
+segmentation/mask_rcnn/nohup.out
+segmentation/mask_rcnn/nohup77_4.out
+segmentation/mask_rcnn/nohup78_8.out
+segmentation/mask_rcnn/nohup716.out
+segmentation/mask_rcnn/nohup717_4.out
+segmentation/mask_rcnn/nohup718_6.out
+segmentation/mask_rcnn/nohup719sc.out
+segmentation/nohup.out
+test/video2im/nohup.out
+test/video2im/nohup-有序.out

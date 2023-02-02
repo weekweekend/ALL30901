@@ -1,0 +1,48 @@
+conda create -n py36 python=3.6
+
+python flist.py --path /home/zcq/documents/edge-connect-master/examples/celeba/masks --output /home/zcq/documents/edge-connect-master/examples/celeba/celeba_test_masks.flist
+
+
+python test.py  --model 1 --checkpoints ./checkpoints/celeba   --input ./examples/celeba/images   --mask ./examples/celeba/masks  --output ./checkpoints/results
+
+python train.py --model 1 --checkpoints ./checkpoints/celeba
+torchvision               0.11.1+cu113
+
+python run.py --data_root datasets/train/images --mask_root datasets/train/masks --model_path checkpoints/checkpoint_celeba.pth --batch_size 8 --gpu 1
+
+python run.py --data_root datasets/test/images --mask_root datasets/test/masks --model_path checkpoint/g_10000.pth --test --mask_mode 2
+
+python run.py --data_root datasets/val/images --mask_root datasets/val/masks --model_path checkpoint/g_700000.pth --test --mask_mode 2
+
+
+
+python run.py --data_root datasets/train/images --mask_root datasets/train/masks --g_path checkpoint/g_40000.pth --d_path checkpoint/d_40000.pth --batch_size 6 --gpu 1
+
+python run.py --data_root datasets/test/images --mask_root datasets/test/masks --g_path checkpoints/seal_10_org.pth --test --mask_mode 2
+
+python run.py --data_root datasets/val/images --mask_root datasets/val/masks --g_path checkpoint/g_100000.pth --test --mask_mode 2
+
+Amax!2021
+
+from torchvision.utils import save_image
+file_path = 'src/featout-{:d}.png'.format(i)
+save_image(feat_out[0,i:i+1,:,:], file_path)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
